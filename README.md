@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Toshi
 
-<!--
-**t104/t104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer specializing in Android, iOS, and Cloud.  
+🎯 Currently working for **[Monoxer](https://corp.monoxer.com/)**, a memory platform service  
+💡 Passionate about **competitive programming** ([AtCoder](https://atcoder.jp/users/t104)) and **mobile development**.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Skills
+- **Languages:** Kotlin, Swift, TypeScript, Scala, C#, C++
+- **Frameworks:** Android, iOS, Play Framework, React, Docker
+- **Cloud:** Azure, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's connect!**  
+[LinkedIn](https://www.linkedin.com/in/toshiki-takei/)
